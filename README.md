@@ -1,4 +1,10 @@
 ### Hi there 👋
+#### I am Ayla Bilgin. 
+- ✨ I am a student at Eskişehir Osmangazi University. My department is Electric and Electrical Engineering. 
+- 🔭 I'm currently working on Computer Vision. 
+- 🌱 I'm currently learning machine learning algorithms and ROS. 
+- ✨ You can use the links below for the topics I am working on.
+- 📫 How to reach me: aylablgnn@gmail.com
 
 <!--
 **AylaBilgin/AylaBilgin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +20,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![Medium Badge](https://img.shields.io/badge/-Medium-FF9800?style=flat-quare&labelColor=FF9800&logo=Medium&logoColor=white&link=link)](https://medium.com/@aylablgn) 
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/AylaBilgin)
