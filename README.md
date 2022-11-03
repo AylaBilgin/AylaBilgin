@@ -1,5 +1,5 @@
 ### Hi there 👋
-✨ _special_ ✨ I am Ayla Bilgin. 
+### ✨✨ I am Ayla Bilgin. 
 - ✨ I am a student at Eskişehir Osmangazi University. My department is Electric and Electrical Engineering. 
 - 🔭 I'm currently working on Computer Vision. 
 - 🌱 I'm currently learning machine learning algorithms and ROS. 
