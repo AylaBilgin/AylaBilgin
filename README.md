@@ -24,3 +24,4 @@ Here are some ideas to get you started:
 
 [![Medium Badge](https://img.shields.io/badge/-Medium-FF9800?style=flat-quare&labelColor=FF9800&logo=Medium&logoColor=white&link=link)](https://medium.com/@aylablgn) 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/AylaBilgin)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0000FF?style=flat-quare&labelColor=0000FF&logo=Linkedin&logoColor=white&link=link)](https://www.linkedin.com/in/aylabilgin/)
