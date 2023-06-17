@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### ✨ I am Ayla Bilgin. 
 - ✨ I am a student at Eskişehir Osmangazi University. My department is Electric and Electrical Engineering. 
-- 🔭 I'm currently working on Computer Vision. 
+- 🔭 I'm currently working on Computer Vision and Robotics. 
 - 🌱 I'm currently learning machine learning algorithms and ROS. 
 - ✨ You can use the links below for the topics I am working on.
 - 📫 How to reach me: aylablgnn@gmail.com
